@@ -17,3 +17,9 @@
 .buttonpad {
   padding: 5px 15px 5px 15px;
 }
+
+:target {
+    background-color: #ffa;
+    transition: all 1s linear;
+    -webkit-transition: all 1s linear;
+}
