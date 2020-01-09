@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/bredmor/bredenlabs.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is **Morgan Breden**, I'm a web developer by trade. I've been a hobbyist since I was a child, and working in the field professionally since 2009. While I primarily work in the LAMP stack, my experience branches out into systems administration, desktop development, machine learning, robotics and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Open Source Projects
 
-### Markdown
+Some of my current OSS work includes:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Phreloader](https://github.com/bredmor/phreloader)
+*A PHP 7.4+ Automatic Preloader*
 
-```markdown
-Syntax highlighted code block
+Phreloader provides a dynamic preload entrypoint for opcache by reading a project's composer classmap.
 
-# Header 1
-## Header 2
-### Header 3
+### [Comment-Analyzer](https://github.com/bredmor/comment-analyzer)
+*PHP Wrapper for the Google Perspective Comment Analyzer API*
 
-- Bulleted
-- List
+Comment-Analyzer is an API library that allows for the automatic evaluation of text in multiple languages via assesment criteria like overall toxicity, attacks on identity, insults, profanity, threats and more. This library is currently in use by multiple websites to cut down on user to user harassment.
 
-1. Numbered
-2. List
+### [Laradocker](https://github.com/bredmor/laradocker)
+*Docker image for Laravel & the Laravel Vapor CI environment*
 
-**Bold** and _Italic_ and `Code` text
+Laradocker (and [Vapor-Action](https://github.com/bredmor/vapor-action)) provide an up-to-date environment for automatically testing Laravel applications and deploying them to AWS Lambda via the Laravel Vapor CI system. This coupled CI/CD system is currently in use by multiple projects I touch on a day to day basis.
 
-[Link](url) and ![Image](src)
-```
+## Skillset
+As mentioned above, I primarily work in the LAMP(Linux, Apache, MySQL and PHP) stack - however my experience with other technologies is expansive. The lists below are those I am most familiar with and use regularly.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Languages**: PHP, Python, Elixir, Node.JS, Javascript, C#, C
 
-### Jekyll Themes
+**Frameworks**: Laravel, Symfony, Phoenix, Express, Vue, React 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bredmor/bredenlabs.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Systems**: Linux(Debian, Ubuntu, Red Hat Enterprise Linux, CentOS), Windows (7, 10 and Server 2019)
 
-### Support or Contact
+**CI/CD Tools**: PHPUnit, ExUnit, Mocha, Github Actions, Jenkins
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Hardware**: x86 PC, Raspberry Pi, Arduino, various COM appliances such as POS terminals, medical devices, manufacturing hardware.
+
+## Professional Work
+
+I'm currently employed as a Developer by [Codesmith Development](https://codesmithdev.com/) in Atlanta GA. In the past I've worked for companies such as [Sitelock](https://www.sitelock.com/), [Grand Canyon University](https://www.gcu.edu/) and [Freedom Financial Network](https://www.freedomfinancialnetwork.com/), among others.
+
+## Contractor Services
+
+I currently provide Hosting, IT support, Web Security and Automation Consulting services to multiple small businesses. While I am not actively seeking new clients, please feel free to contact me using [the form below](#contact).
