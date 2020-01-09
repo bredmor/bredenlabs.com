@@ -9,7 +9,7 @@ Some of my current OSS work includes:
 ### [Phreloader](https://github.com/bredmor/phreloader)
 *A PHP 7.4+ Automatic Preloader*
 
-Phreloader provides a dynamic preload entrypoint for opcache by reading a project's composer classmap.
+Phreloader provides a dynamic preload entrypoint for opcache by reading a project's composer classmap. I built this autoloader the day PHP 7.4 was released in order to test the performance gains of the new preloading subsystem.
 
 ### [Comment-Analyzer](https://github.com/bredmor/comment-analyzer)
 *PHP Wrapper for the Google Perspective Comment Analyzer API*
