@@ -40,4 +40,4 @@ I'm currently employed as a Developer by [Codesmith Development](https://codesmi
 
 ## Contractor Services
 
-I currently provide Hosting, IT support, Web Security and Automation Consulting services to multiple small businesses. While I am not actively seeking new clients, please feel free to contact me using [the form below](#contact).
+I currently provide Hosting, IT support, Web Security and Automation Consulting services to multiple small businesses. While I am not actively seeking new clients, please feel free to contact me using [the form in the sidebar](#contact).
