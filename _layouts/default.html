@@ -44,9 +44,16 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        <h2 id="contact">Contact Me</h2>
+        <form action="https://formspree.io/mjvyvvla" method="POST">
+          <label>Your email: 
+            <input type="text" name="_replyto">
+          </label>
+          <label>Your message:
+            <textarea name="message"></textarea>
+          </label>
+          <button type="submit">Send</button>
+        </form>
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
