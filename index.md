@@ -1,6 +1,6 @@
 ## About Me
 
-My name is **Morgan Breden**, I'm a web developer by trade. I've been a hobbyist since I was a child, and working in the field professionally since 2009. While I primarily work in the LAMP stack, my experience branches out into systems administration, desktop development, machine learning, robotics and more.
+My name is **Morgan Breden**, I'm an engineer by trade. I've been a hobbyist since I was a child, and working in software professionally since 2009. While I primarily work in web development, my experience branches out into systems administration, desktop development, machine learning, robotics and more.
 
 ## Open Source Projects
 
@@ -24,7 +24,7 @@ Laradocker (and [Vapor-Action](https://github.com/bredmor/vapor-action)) provide
 ## Skillset
 As mentioned above, I primarily work in the LAMP(Linux, Apache, MySQL and PHP) stack - however my experience with other technologies is expansive. The lists below are those I am most familiar with and use regularly.
 
-**Languages**: PHP, Python, Elixir, Node.JS, Javascript, C#, C
+**Languages**: PHP, Python, Elixir, Node.JS, Javascript, C#, C, Rust
 
 **Frameworks**: Laravel, Symfony, Phoenix, Express, Vue, React 
 
@@ -36,7 +36,7 @@ As mentioned above, I primarily work in the LAMP(Linux, Apache, MySQL and PHP) s
 
 ## Professional Work
 
-I'm currently employed as a Developer by [Codesmith Development](https://codesmithdev.com/) in Atlanta GA. In the past I've worked for companies such as [Sitelock](https://www.sitelock.com/), [Grand Canyon University](https://www.gcu.edu/) and [Freedom Financial Network](https://www.freedomfinancialnetwork.com/), among others.
+I'm currently a freelancer working out of Atlanta GA. In the past I've worked for companies such as [Codesmith Development](https://codesmithdev.com/), [Sitelock](https://www.sitelock.com/), [Grand Canyon University](https://www.gcu.edu/) and [Freedom Financial Network](https://www.freedomfinancialnetwork.com/), among others.
 
 ## Contractor Services
 
