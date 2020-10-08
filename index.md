@@ -40,4 +40,4 @@ I'm currently a freelancer working out of Atlanta GA. In the past I've worked fo
 
 ## Contractor Services
 
-I currently provide Hosting, IT support, Web Security and Automation Consulting services to multiple small businesses. While I am not actively seeking new clients, please feel free to contact me using [the form in the sidebar](#contact).
+I currently provide Hosting, IT support, Web Security and Automation Consulting services to businesses of all sizes. Please feel free to contact me using [the form in the sidebar](#contact) and I'll get back to you via email or phone call.
